@@ -49,7 +49,7 @@
 <a href="https://www.linkedin.com/in/duwesh-kumar/"><img src="https://img.shields.io/badge/duwesh-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:duwesh.kr@gmail.com"><img src="https://img.shields.io/badge/-duwesh.kr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/dkduwesh_/"><img src="https://img.shields.io/badge/-@dkduwesh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/duwesh.kumar/"><img src="https://img.shields.io/badge/-@duwesh.kumar-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/duwesh.kumar/"><img src="https://img.shields.io/badge/-@duwesh.kumar-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
 
