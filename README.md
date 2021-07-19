@@ -48,8 +48,8 @@
 <p align="center">
 <a href="https://www.duweshkumar.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/duwesh-kumar/"><img src="https://img.shields.io/badge/-Duwesh%20kumaram%-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:duwesh.kr@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/dkduwesh_/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:duwesh.kr@gmail.com"><img src="https://img.shields.io/badge/-duwesh.kr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/dkduwesh_/"><img src="https://img.shields.io/badge/-@dkduwesh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/duwesh.kumar/"><img src="https://img.shields.io/badge/-@duwesh.kumar-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
