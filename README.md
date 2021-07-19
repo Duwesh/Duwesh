@@ -1,5 +1,5 @@
 
-👋 &nbsp<h2>Hey there! I'm Duwesh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+###👋 &nbsp; <h2>Hey there! I'm Duwesh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
