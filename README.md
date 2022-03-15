@@ -4,10 +4,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering from The Assam Royal Global University.\
-🌱 &nbsp;I'm on track for learning more about Web Development, Front-end Development.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at duwesh.kr@gmail.com! I'll try to respond as soon as I can.\
+🌱 &nbsp;I'm on track for learning more about Full Stack Web Development.\
+💬 &nbsp;Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , MangoDB and Wordpress.**.\
+✉️ &nbsp;You can reach out to me via email at duwesh.kr@gmail.com! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.duwesh.kumar.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
