@@ -146,8 +146,8 @@
 
 ---
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jeevan243&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=duwesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
 ⭐️ From [@Duwesh](https://github.com/duwesh)
-{"mode":"full","isActive":false}
+<!-- {"mode":"full","isActive":false} -->
