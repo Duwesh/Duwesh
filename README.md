@@ -17,25 +17,125 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+<h2 align="center" border="0">My Tech Stack</h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
-<!-- ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; -->
-<!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) -->
+<br>
 
+<table align="center">
+
+<tbody>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>NodeJS</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Express</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Mongodb</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗚𝗶𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
