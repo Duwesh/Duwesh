@@ -1,5 +1,10 @@
+### Hi there 👋 I'm Duwesh Kumar
 
-## 👋 &nbsp; <h2>Hey there! I'm Duwesh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome+to+my+GitHub+Profile!;I'm++a+Full-Stack+Web+Developer.)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
