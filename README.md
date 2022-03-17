@@ -1,7 +1,8 @@
+<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Duwesh Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
 <h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.</i></h3>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🙋‍♂️ &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Web Development.\
@@ -9,9 +10,17 @@
 ✉️ &nbsp;You can reach out to me via email at duwesh.kr@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.duwesh.kumar.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
+⚡Fun Facts
+<br/>
+•JavaScript ♥️
+<br/>
+•Time, Tide and JavaScript waits for none.
+<br/>
+•Functions are like the heart of JavaScript.
+<br/>
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
-### <h3 align="left" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
+### <h3 align="left" border="0"> 🚀 Languages and Tools:<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
 
 <br>
 
@@ -149,6 +158,11 @@
 ### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=duwesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+## ❤ Views and Followers
+<a href="https://github.com/duwesh/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=duwesh">
+</a>
+<a href="https://github.com/duwesh?tab=followers"><img src="https://img.shields.io/github/followers/duwesh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/> 
 ⭐️ From [@Duwesh](https://github.com/duwesh)
 <!-- {"mode":"full","isActive":false} -->
