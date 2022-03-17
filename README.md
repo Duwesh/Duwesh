@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
 
-### 🙋‍♂️ &nbsp;About Me
+## 🙋‍♂️ &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Web Development.\
@@ -28,7 +28,7 @@
 <br/>
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
-### <h3 align="left" border="0"> 🚀 Languages and Tools:<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
+## <h3 align="left" border="0"> 🚀 Languages and Tools:<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
 
 <br>
 
@@ -163,14 +163,14 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-### Github Stats  
+## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=duwesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/duwesh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=duwesh">
 </a>
 <a href="https://github.com/duwesh?tab=followers"><img src="https://img.shields.io/github/followers/duwesh?label=Followers&style=social" alt="GitHub Badge"></a>
-<br/> 
+<br/>  -->
 ⭐️ From [@Duwesh](https://github.com/duwesh)
 <!-- {"mode":"full","isActive":false} -->
