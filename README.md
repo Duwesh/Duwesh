@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Duwesh Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
-<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code.</i></h3>
+<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</i></h3>
 <p align= "center">
 
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
@@ -172,5 +172,21 @@
 </a>
 <a href="https://github.com/duwesh?tab=followers"><img src="https://img.shields.io/github/followers/duwesh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>  -->
+
+<div align="left">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=duwesh&theme=synthwave" alt="cybervirus997" width="47%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=duwesh&theme=synthwave" alt="cybervirus997" width="47%" />
+  </p>
+</div>
+ 
+ 
+<div align="center">
+<a href="https://github.com/duwesh/github-readme-activity-graph"><img alt="duwesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=duwesh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</div>
+  
+<div align="center">
+   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=duwesh&theme=synthwave" alt="duwesh" />
+</div>
 ⭐️ From [@Duwesh](https://github.com/duwesh)
 <!-- {"mode":"full","isActive":false} -->
