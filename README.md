@@ -89,5 +89,5 @@
    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=duwesh&theme=synthwave" alt="duwesh" />
 </div>
 
-⭐️ From [@Duwesh](https://github.com/duwesh)
+⭐️ From [Duwesh Kumar](https://github.com/duwesh)
 <!-- {"mode":"full","isActive":false} -->
