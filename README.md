@@ -16,9 +16,8 @@
 </div>
 
 <div align="center">
-   <p> 💡 I like to explore new technologies and develop software solutions and quick hacks.</p>
    <p> 🌱 I'm on track for learning more about Full Stack Web Development</p>
-   <p> 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , MangoDB.**</p>
+   <p> 💬 Ask me about ReactJS , Javascript , DS-Algo , Node Js , Express , MangoDB.</p>
    <p> 📫 How to reach me duwesh.kr@gmail.com!</p>
    <p> 🥅 2022 Goals : Learning new things and contribute more</p>
 </div>
@@ -170,7 +169,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-## Github Stats  
+## 🛠 Github Stats  
 <div align="left">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=duwesh&theme=synthwave" alt="cybervirus997" width="47%" />
