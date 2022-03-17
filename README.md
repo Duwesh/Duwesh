@@ -10,12 +10,18 @@
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
 
-## 🙋‍♂️ &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Full Stack Web Development.\
-💬 &nbsp;Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , MangoDB.**.\
-✉️ &nbsp;You can reach out to me via email at duwesh.kr@gmail.com! I'll try to respond as soon as I can.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/77038954/133616013-7488fc92-9b6d-4df9-b2a3-88ba9636d49e.png" width="30%"src="" alt="animatation" />
+</div>
+
+<div align="center">
+   <p> 💡 I like to explore new technologies and develop software solutions and quick hacks.</p>
+   <p> 🌱 I'm on track for learning more about Full Stack Web Development</p>
+   <p> 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , MangoDB.**</p>
+   <p> 📫 How to reach me duwesh.kr@gmail.com!</p>
+   <p> 🥅 2022 Goals : Learning new things and contribute more</p>
+</div>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.duwesh.kumar.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 ⚡Fun Facts
@@ -164,15 +170,6 @@
 
 ---
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=duwesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/duwesh/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=duwesh">
-</a>
-<a href="https://github.com/duwesh?tab=followers"><img src="https://img.shields.io/github/followers/duwesh?label=Followers&style=social" alt="GitHub Badge"></a>
-<br/>  -->
-
 <div align="left">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=duwesh&theme=synthwave" alt="cybervirus997" width="47%" />
@@ -188,5 +185,6 @@
 <div align="center">
    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=duwesh&theme=synthwave" alt="duwesh" />
 </div>
+
 ⭐️ From [@Duwesh](https://github.com/duwesh)
 <!-- {"mode":"full","isActive":false} -->
