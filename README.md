@@ -4,8 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Duwesh+Kumar+👋;Full+Stack+%26+Web+Developer+🚀;Let%E2%80%99s+build+something+amazing+together!">
 </p>
 
-Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.
+Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
 I turn ideas into elegant, efficient software. Passionate about clean code, intuitive interfaces, and robust systems.  
+
+🔹 **Consultant** @ PV Advisory  
+🔹 **Full-Stack Developer** with a love for algorithms  
+🔹 **Collaboration enthusiast** who thrives in team environments  
+
+*"First solve the problem. Then write the code."*  
+
+🚀 Building solutions that matter | 💡 Debugging dreams into reality
 
 🔹 **Consultant** @ PV Advisory  
 🔹 **Full-Stack Developer** with a love for algorithms  
@@ -29,7 +37,7 @@ I turn ideas into elegant, efficient software. Passionate about clean code, intu
 -->
 
 <div>
-### 🌱 **Current Focus**
+### 🌱 **Current Focus**  
 Mastering the Full Stack Development ecosystem - from pixel-perfect UIs to scalable backend architectures  
   
 ### 🤖 **AI Exploration**  
@@ -54,19 +62,10 @@ Let's chat about:
 </div>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.duwesh.kumar.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<!-- ### 🔗 🤝🏻 Location and Contact Section -->
-## 🌍 Location & Contact
-📍 **Based in**: Gurgaon, Haryana  
-✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
-🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
-📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)
 
-Reach out at [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
-*Open to collaborations, tech discussions, and coffee chats!* 
+<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+-->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
 <!-- ## 🛠 Github Stats -->
 <!--<h3>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
 <div align="left">
@@ -105,6 +104,18 @@ Reach out at [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)
 <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/></a>
 <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker"></a>
 </p>
+
+---
+<!-- ### 🔗 🤝🏻 Location and Contact Section -->
+## 🌍 Location & Contact
+📍 **Based in**: Gurgaon, Haryana  
+✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
+🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
+📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)
+
+Reach out at [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
+*Open to collaborations, tech discussions, and coffee chats!* 
+
 
 ⭐️ From [Duwesh Kumar](https://github.com/duwesh)
 <!-- {"mode":"full","isActive":false} -->
