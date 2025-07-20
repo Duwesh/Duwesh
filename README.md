@@ -1,26 +1,31 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a> -->
 
+<!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Duwesh+Kumar+👋;Full+Stack+%26+Web+Developer+🚀;Let%E2%80%99s+build+something+amazing+together!">
 </p>
 
+<!-- Introduction -->
 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
-I turn ideas into elegant, efficient software. Passionate about clean code, intuitive interfaces, and robust systems.  
-🔹 **Consultant** [@PV Advisory](https://pvadvisory.in/)  
-🔹 **Full-Stack Developer** with a love for algorithms  
-🔹 **Collaboration enthusiast** who thrives in team environments  
+Passionate about crafting elegant, efficient software with clean code and intuitive interfaces 
+🔹 **Consultant** @ <a href="https://pvadvisory.in/" target="_blank">PV Advisory</a>  
+🔹 **Full-Stack Developer** specializing in scalable solutions  
+🔹 **AI Enthusiast** integrating smart features into web apps  
 
-*"First solve the problem. Then write the code."*  
-🚀 Building solutions that matter | 💡 Debugging dreams into reality  
+<div align="">
+  <em>"First solve the problem. Then write the code."</em><br>
+  🚀 Building impactful solutions | 💡 Transforming ideas into reality
+</div>
+<div align="center">
 
+### 🌟 Core Expertise
+▸ Full Stack Development (React | Node | Express)  
+▸ Database Systems (PostgreSQL | PostgreSQL) 
+▸ Data Structures & Algorithms  
 
-<div align="center">  
-  ### 🌟 **Full Stack & AI Developer**  
-  ▸ End-to-end web development  
-  ▸ AI integration (LLMs, TensorFlow.js)  
-  ▸ React | Node | PostgreSQL | DSA  
-  ### 🎯 **2025 Vision**  
-  Open Source | Next-Gen Tech | Mentorship | Impactful AI Solutions 
+### 🎯 2025 Vision
+Open Source | Emerging Tech | Mentorship | AI Solutions  
+
 </div>
 
 ### 🧰 Languages and Frameworks
@@ -45,16 +50,14 @@ I turn ideas into elegant, efficient software. Passionate about clean code, intu
 </p>
 
 <!-- ### 🔗 🤝🏻 Location and Contact Section -->
-## 🌍 Location & Contact
+## 🤝🏻 Connect With Me
 📍 **Based in**: Gurgaon, Haryana  
 ✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
 📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)  
-🌐 **Portfolio**: *[Duwesh Kumar](https://portfolio-duwesh.vercel.app/)* 
+🌐 **Portfolio**: *[Duwesh Kumar](https://portfolio-duwesh.vercel.app/)*  
 
-Reach out at [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 *Open to collaborations, tech discussions, and coffee chats!* 
 
 
-⭐️ From [Duwesh Kumar](https://github.com/duwesh)
-<!-- {"mode":"full","isActive":false} -->
+⭐️ From [Duwesh Kumar](https://github.com/duwesh)  
