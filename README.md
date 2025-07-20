@@ -13,46 +13,17 @@ I turn ideas into elegant, efficient software. Passionate about clean code, intu
 *"First solve the problem. Then write the code."*  
 🚀 Building solutions that matter | 💡 Debugging dreams into reality  
 
-<!--
-<p align= "center">
-  <img src="https://img.shields.io/badge/JS-Javascript-red"/>
-  <img src="https://img.shields.io/badge/React-React-blue"/>
-  <img src="https://img.shields.io/badge/Node-node-green"/>
-  <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
-</p>
--->
 
 
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/77038954/133616013-7488fc92-9b6d-4df9-b2a3-88ba9636d49e.png" width="30%"src="" alt="animatation" />
-</div>
--->
-<!--
-<div>
-### 🌱 **Current Focus**  
-  Mastering the Full Stack Development ecosystem - from pixel-perfect UIs to scalable backend architectures  
-  
-### 🤖 **AI Exploration**  
-Diving deep into AI/ML integration with web development  
-• Building intelligent applications with LLMs  
-• Exploring TensorFlow.js for browser-based AI  
-• Implementing smart features in web applications  
-
-### 💡 **Expertise Areas**  
-Let's chat about:  
-• ReactJS & Modern JavaScript  
-• Data Structures & Algorithms  
-• Node.js & Express (Backend Magic)  
-• PostgreSQL (Database Wizardry)  
+<div align="center">
+### 🌟 **Full Stack & AI Developer**  
+▸ End-to-end web development  
+▸ AI integration (LLMs, TensorFlow.js)  
+▸ React | Node | PostgreSQL | DSA  
 
 ### 🎯 **2025 Vision**  
-• Contribute meaningfully to open-source  
-• Explore cutting-edge technologies  
-• Mentor aspiring developers  
-• Build solutions that create impact  
-• Bridge web development with practical AI applications  
+Open Source | Next-Gen Tech | Mentorship | Impactful AI Solutions 
 </div>
--->
 
 ### 🧰 Languages and Frameworks
 <p align="left">
@@ -70,6 +41,8 @@ Let's chat about:
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /></a>
 <a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/></a>
 <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" alt="PostgreSQL"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL"></a>
 <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker"></a>
 </p>
 
