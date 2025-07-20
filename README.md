@@ -6,20 +6,21 @@
 
 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
 I turn ideas into elegant, efficient software. Passionate about clean code, intuitive interfaces, and robust systems.  
-🔹 **Consultant** [@PV Advisory](https://pvadvisory.in/) 
+🔹 **Consultant** [@PV Advisory](https://pvadvisory.in/)  
 🔹 **Full-Stack Developer** with a love for algorithms  
 🔹 **Collaboration enthusiast** who thrives in team environments  
 
 *"First solve the problem. Then write the code."*  
 🚀 Building solutions that matter | 💡 Debugging dreams into reality  
 
-
+<!--
 <p align= "center">
   <img src="https://img.shields.io/badge/JS-Javascript-red"/>
   <img src="https://img.shields.io/badge/React-React-blue"/>
   <img src="https://img.shields.io/badge/Node-node-green"/>
   <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 </p>
+-->
 
 
 <!-- <div align="center">
