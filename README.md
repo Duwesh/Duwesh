@@ -11,11 +11,12 @@ Passionate about crafting elegant, efficient software with clean code and intuit
 🔹 **Consultant** @ <a href="https://pvadvisory.in/" target="_blank">PV Advisory</a>  
 🔹 **Full-Stack Developer** specializing in scalable solutions  
 🔹 **AI Enthusiast** integrating smart features into web apps  
+
 <em>"First solve the problem. Then write the code."</em>  
 🚀 Building impactful solutions | 💡 Transforming ideas into reality  
 
 ## 🌟 Core Expertise
-▸ Full Stack Development (Modern JavaScript| React | Node | Express)  
+▸ Full Stack Development (Modern JavaScript | React | Node | Express)  
 ▸ Data Structures & Algorithms  
 ▸ PostgreSQL (Database Wizardry)  
 
