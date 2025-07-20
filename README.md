@@ -6,7 +6,7 @@
 </p>
 
 <!-- Introduction -->
-Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
+👋 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
 Passionate about crafting elegant, efficient software with clean code and intuitive interfaces  
 🔹 **Consultant** @ <a href="https://pvadvisory.in/" target="_blank">PV Advisory</a>  
 🔹 **Full-Stack Developer** specializing in scalable solutions  
@@ -55,7 +55,6 @@ Passionate about crafting elegant, efficient software with clean code and intuit
 📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)  
 🌐 **Portfolio**: *[Duwesh Kumar](https://portfolio-duwesh.vercel.app/)*  
 
-*Open to collaborations, tech discussions, and coffee chats!* 
+*Open to collaborations, tech discussions, and coffee chats!*  
 
-
-⭐️ From [Duwesh Kumar](https://github.com/duwesh)  
+<!--⭐️ From [Duwesh Kumar](https://github.com/duwesh) -->
