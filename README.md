@@ -14,15 +14,13 @@ I turn ideas into elegant, efficient software. Passionate about clean code, intu
 🚀 Building solutions that matter | 💡 Debugging dreams into reality  
 
 
-
-<div align="center">
-### 🌟 **Full Stack & AI Developer**  
-▸ End-to-end web development  
-▸ AI integration (LLMs, TensorFlow.js)  
-▸ React | Node | PostgreSQL | DSA  
-
-### 🎯 **2025 Vision**  
-Open Source | Next-Gen Tech | Mentorship | Impactful AI Solutions 
+<div align="center">  
+  ### 🌟 **Full Stack & AI Developer**  
+  ▸ End-to-end web development  
+  ▸ AI integration (LLMs, TensorFlow.js)  
+  ▸ React | Node | PostgreSQL | DSA  
+  ### 🎯 **2025 Vision**  
+  Open Source | Next-Gen Tech | Mentorship | Impactful AI Solutions 
 </div>
 
 ### 🧰 Languages and Frameworks
