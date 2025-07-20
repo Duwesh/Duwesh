@@ -1,24 +1,56 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Duwesh Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
-<h3>- <i>I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</i></h3>
-<p align= "center">
 
-<img src="https://img.shields.io/badge/JS-Javascript-red"/>
-<img src="https://img.shields.io/badge/React-React-blue"/>
-<img src="https://img.shields.io/badge/Node-node-green"/>
-<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Duwesh+Kumar+👋;Full+Stack+%26+Web+Developer;AI+Enthusiast;Let%E2%80%99s+build+something+amazing+together!">
+</p>
+
+Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.
+I turn ideas into elegant, efficient software. Passionate about clean code, intuitive interfaces, and robust systems.  
+
+🔹 **Consultant** @ PV Advisory  
+🔹 **Full-Stack Developer** with a love for algorithms  
+🔹 **Collaboration enthusiast** who thrives in team environments  
+
+*"First solve the problem. Then write the code."*  
+🚀 Building solutions that matter | 💡 Debugging dreams into reality  
+
+
+<p align= "center">
+  <img src="https://img.shields.io/badge/JS-Javascript-red"/>
+  <img src="https://img.shields.io/badge/React-React-blue"/>
+  <img src="https://img.shields.io/badge/Node-node-green"/>
+  <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 </p>
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/77038954/133616013-7488fc92-9b6d-4df9-b2a3-88ba9636d49e.png" width="30%"src="" alt="animatation" />
 </div>
+-->
 
-<div align="center">
-   <p> 🌱 I'm on track for learning more about Full Stack Web Development</p>
-   <p> 💬 Ask me about ReactJS , Javascript , DS-Algo , Node Js , Express , Postgres SQL.</p>
-   <p> 📫 How to reach me imduweshkumar@gmail.com!</p>
-   <p> 🥅 2025 Goals : Learning new things and contribute more</p>
+<div>
+### 🌱 **Current Focus**  
+Mastering the Full Stack Development ecosystem - from pixel-perfect UIs to scalable backend architectures  
+  
+### 🤖 **AI Exploration**  
+Diving deep into AI/ML integration with web development  
+• Building intelligent applications with LLMs  
+• Exploring TensorFlow.js for browser-based AI  
+• Implementing smart features in web applications  
+
+### 💡 **Expertise Areas**  
+Let's chat about:  
+• ReactJS & Modern JavaScript  
+• Data Structures & Algorithms  
+• Node.js & Express (Backend Magic)  
+• PostgreSQL (Database Wizardry)  
+
+### 🎯 **2025 Vision**  
+• Contribute meaningfully to open-source  
+• Explore cutting-edge technologies  
+• Mentor aspiring developers  
+• Build solutions that create impact  
+• Bridge web development with practical AI applications  
 </div>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.duwesh.kumar.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
@@ -28,7 +60,8 @@
 ✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
 📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)
-
+Reach out at [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
+*Open to collaborations, tech discussions, and coffee chats!* 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
