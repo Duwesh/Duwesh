@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
-Passionate about crafting elegant, efficient software with clean code and intuitive interfaces 
+Passionate about crafting elegant, efficient software with clean code and intuitive interfaces  
 🔹 **Consultant** @ <a href="https://pvadvisory.in/" target="_blank">PV Advisory</a>  
 🔹 **Full-Stack Developer** specializing in scalable solutions  
 🔹 **AI Enthusiast** integrating smart features into web apps  
@@ -16,7 +16,7 @@ Passionate about crafting elegant, efficient software with clean code and intuit
   <em>"First solve the problem. Then write the code."</em><br>
   🚀 Building impactful solutions | 💡 Transforming ideas into reality
 </div>
-<div align="center">
+<div align="">
 
 ### 🌟 Core Expertise
 ▸ Full Stack Development (React | Node | Express)  
@@ -51,6 +51,7 @@ Open Source | Emerging Tech | Mentorship | AI Solutions
 
 <!-- ### 🔗 🤝🏻 Location and Contact Section -->
 ## 🤝🏻 Connect With Me
+<p align="left">
 📍 **Based in**: Gurgaon, Haryana  
 ✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
@@ -58,6 +59,7 @@ Open Source | Emerging Tech | Mentorship | AI Solutions
 🌐 **Portfolio**: *[Duwesh Kumar](https://portfolio-duwesh.vercel.app/)*  
 
 *Open to collaborations, tech discussions, and coffee chats!* 
+</p>
 
 
 ⭐️ From [Duwesh Kumar](https://github.com/duwesh)  
