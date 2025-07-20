@@ -20,7 +20,7 @@ Passionate about crafting elegant, efficient software with clean code and intuit
 
 ### 🌟 Core Expertise
 ▸ Full Stack Development (React | Node | Express)  
-▸ Database Systems (MySQL | PostgreSQL) 
+▸ Database Systems (MySQL | PostgreSQL)  
 ▸ Data Structures & Algorithms  
 
 ### 🎯 2025 Vision
