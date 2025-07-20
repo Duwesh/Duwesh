@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Duwesh+Kumar+👋;Full+Stack+%26+Web+Developer;AI+Enthusiast;Let%E2%80%99s+build+something+amazing+together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Duwesh+Kumar+👋;Full+Stack+%26+Web+Developer+🚀;Let%E2%80%99s+build+something+amazing+together!">
 </p>
 
 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.
@@ -29,7 +29,7 @@ I turn ideas into elegant, efficient software. Passionate about clean code, intu
 -->
 
 <div>
-### 🌱 **Current Focus**  
+### 🌱 **Current Focus**
 Mastering the Full Stack Development ecosystem - from pixel-perfect UIs to scalable backend architectures  
   
 ### 🤖 **AI Exploration**  
@@ -60,6 +60,7 @@ Let's chat about:
 ✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
 📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)
+
 Reach out at [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 *Open to collaborations, tech discussions, and coffee chats!* 
 
