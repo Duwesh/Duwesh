@@ -20,7 +20,7 @@ Passionate about crafting elegant, efficient software with clean code and intuit
 
 ### 🌟 Core Expertise
 ▸ Full Stack Development (React | Node | Express)  
-▸ Database Systems (PostgreSQL | PostgreSQL) 
+▸ Database Systems (MySQL | PostgreSQL) 
 ▸ Data Structures & Algorithms  
 
 ### 🎯 2025 Vision
@@ -51,7 +51,6 @@ Open Source | Emerging Tech | Mentorship | AI Solutions
 
 <!-- ### 🔗 🤝🏻 Location and Contact Section -->
 ## 🤝🏻 Connect With Me
-<p align="left">
 📍 **Based in**: Gurgaon, Haryana  
 ✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
@@ -59,7 +58,6 @@ Open Source | Emerging Tech | Mentorship | AI Solutions
 🌐 **Portfolio**: *[Duwesh Kumar](https://portfolio-duwesh.vercel.app/)*  
 
 *Open to collaborations, tech discussions, and coffee chats!* 
-</p>
 
 
 ⭐️ From [Duwesh Kumar](https://github.com/duwesh)  
