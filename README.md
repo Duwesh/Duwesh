@@ -78,7 +78,7 @@ Let's chat about:
 📍 **Based in**: Gurgaon, Haryana  
 ✉️ **Email**: [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
 🔗 **LinkedIn**: [Duwesh Kumar](https://www.linkedin.com/in/duwesh-kumar/)  
-📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)
+📸 **Instagram**: [@duwesh.kumar](https://instagram.com/duwesh.kumar)  
 🌐 **Portfolio**: *[Duwesh Kumar](https://portfolio-duwesh.vercel.app/)* 
 
 Reach out at [imduweshkumar@gmail.com](mailto:imduweshkumar@gmail.com)  
