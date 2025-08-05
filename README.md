@@ -6,7 +6,7 @@
 </p>  
 
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Duwesh&color=blue&label=Profile+Views&base=2000)](https://github.com/Duwesh)  
+<!--[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Duwesh&color=blue&label=Profile+Views&base=2000)](https://github.com/Duwesh) --> 
 
 <!-- Introduction -->  
 👋 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
