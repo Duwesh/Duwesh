@@ -11,7 +11,7 @@
 <!-- Introduction -->  
 👋 Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
 Passionate about crafting elegant, efficient software with clean code and intuitive interfaces  
-🔹 **Consultant** @ <a href="https://pvadvisory.in/" target="_blank">PV Advisory</a>  
+🔹 **Senior Consultant** @ <a href="https://pvadvisory.in/" target="_blank">PV Advisory</a>  
 🔹 **Full-Stack Developer** specializing in scalable solutions  
 🔹 **AI Enthusiast** integrating smart features into web apps  
 
@@ -23,7 +23,7 @@ Passionate about crafting elegant, efficient software with clean code and intuit
 ▸ Data Structures & Algorithms  
 ▸ PostgreSQL (Database Wizardry)  
 
-## 🎯 2025 Vision  
+## 🎯 2026 Vision  
 • Contribute meaningfully to open-source  
 • Explore cutting-edge technologies  
 • Mentor aspiring developers  
